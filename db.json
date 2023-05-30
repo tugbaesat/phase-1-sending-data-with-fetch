@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,30 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "karabas",
+      "dogBreed": "sokak kopegi:(",
+      "id": 3
+    },
+    {
+      "dogName": "karabas",
+      "dogBreed": "sokak kopegi:(",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +43,378 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 1
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 2
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 5
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 6
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 7
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 8
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 9
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 10
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 11
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 12
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 13
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 14
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 15
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 16
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 17
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 18
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 19
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 20
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 21
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 22
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 23
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 24
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 25
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 26
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 27
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 28
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 29
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 30
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 31
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 32
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 33
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 34
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 35
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 36
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 37
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 38
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 39
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 40
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 41
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 42
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 43
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 44
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 45
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 46
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 47
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 48
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 49
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 50
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 51
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 52
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 53
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 54
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 55
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 56
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 57
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 58
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 59
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 60
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 61
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 62
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 63
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 64
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 65
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 66
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 67
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 68
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 69
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 70
+    },
+    {
+      "name": "Tugba",
+      "email": "tugba@email.com",
+      "id": 71
+    },
+    {
+      "id": 72
+    },
+    {
+      "id": 73
+    },
+    {
+      "id": 74
+    },
+    {
+      "id": 75
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
